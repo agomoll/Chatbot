@@ -19,3 +19,8 @@ This shows the testing window where the chatbot returns answers and some informa
 ### Configuring the Dialog decision tree:
 
 ![First_Prompt](https://github.com/agomoll/Chatbot/blob/main/Resources/dialog.PNG)
+
+
+### Setting up the Preview Assistant
+
+![pre_assist](https://github.com/agomoll/Chatbot/blob/main/Resources/ibm_preview_assistant.PNG)
