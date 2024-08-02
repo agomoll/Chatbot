@@ -11,7 +11,7 @@ This shows the testing window where the chatbot returns answers and some informa
 
 
 ### Testing prompts and responses:
-The platform provides an easy to use interface to test queries against the chatbot while developing.
+The platform provides an easy to use interface to test queries against the chatbot while developing. After submitting a question, the chatbot returns an answer as well as the Intent and/or Intity used as a reference. This allows for easy tuning of reference data for the chatbot to rely on. 
 ![First_Prompt](https://github.com/agomoll/Chatbot/blob/main/Resources/chatbot_practice.PNG)
 
 
